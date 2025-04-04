@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Delhi, India"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "8595465329"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "amanulmat@gmail.com"
+    }
+  ]
